@@ -865,4 +865,4 @@ export default function App() {
     </>
   );
 }
-export default DealBuilder;
+export default App;
