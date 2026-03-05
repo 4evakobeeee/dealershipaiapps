@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { LayoutDashboard, Users, BarChart3, FileText, Send, Eye, MessageSquare, CheckCircle, Clock, Plus, Search, Copy, Calendar, Mail, Smartphone, Sparkles, X, ChevronRight, Share2 } from 'lucide-react';
 
 const FONTS = `
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300&family=DM+Mono:wght@400;500&display=swap');
